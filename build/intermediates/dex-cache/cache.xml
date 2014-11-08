@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/linda/AndroidStudio/EnhancedReality/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-508aeae4fcb78d81ee7a095eab7bc75fa50cbc9a.jar"
+        jar="/opt/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/home/linda/AndroidStudio/EnhancedReality/app/build/intermediates/pre-dexed/debug/classes-159b9a3a1f8fb7dfef198c079ae385300af51b33.jar"
+        jar="/home/linda/AndroidStudio/EnhancedReality/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.11/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0f700f6802ba1a1f1fa7ac26d5db0666a89d75a6"/>
+    <item
+        dex="/home/linda/AndroidStudio/EnhancedReality/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-12beee675003782321cd356a68cb22469118d3d4.jar"
+        jar="/home/linda/AndroidStudio/EnhancedReality/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/home/linda/AndroidStudio/EnhancedReality/app/build/intermediates/pre-dexed/debug/classes-bfd9c9a7cf64032dca77fca1ba3f7f0985269ad8.jar"
+        jar="/home/linda/AndroidStudio/EnhancedReality/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="/home/linda/AndroidStudio/EnhancedReality/app/build/intermediates/pre-dexed/debug/classes-64ec0d67d640b1d0b70060533c1654f6709254c7.jar"
+        jar="/home/linda/AndroidStudio/EnhancedReality/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+
+</pre-dex-items>
